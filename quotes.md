@@ -1,3 +1,9 @@
+A vida é impermanente
+
+Pessoas vazias provocam
+Pessoas frustradas criticam
+Pessoas inseguras atacam
+
 "quando a verdade morre
 entra em ação a narrativa
 
