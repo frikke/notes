@@ -16,3 +16,10 @@ Subjuntivo = algo não garantido, não confirmado, hipotético.
 Confusão comum:
 “Ver” (enxergar) → no futuro do subjuntivo vira vir.
 “Vir” (chegar, aproximar-se) é outro verbo totalmente diferente.
+
+
+--
+
+Verbo defectivo 
+que não possui conjugação completa.. geralmente para evitar cacofonia ou ambiguidade.
+Exemplo: Falir -> Eu falo, ele fala. Não existem, pois se confunde com o verbo falar.
